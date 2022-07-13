@@ -13,4 +13,4 @@ Step 3: wait for download proccess to finish, close the program, and your virus 
 
 Congrats! You made your first virus, have fun with this.
 
-ps: if you ran the example virus, just turn off your pc and turn it back on.
+ps: if you ran the example virus and want it to stop, just turn off your pc and turn it back on.
